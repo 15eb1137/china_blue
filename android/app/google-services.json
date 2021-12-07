@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982071887891",
+    "project_id": "marib-surf",
+    "storage_bucket": "marib-surf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982071887891:android:6faf76252d9b229239d7e6",
+        "android_client_info": {
+          "package_name": "com.wifi_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982071887891-s4u3h6ig2l741odfg11grh3is205b1gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6lXr6chvsTyXonRPjCgwAg28htTIlN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982071887891-s4u3h6ig2l741odfg11grh3is205b1gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
